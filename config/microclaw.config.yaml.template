@@ -1,0 +1,36 @@
+# MicroClaw Config Template
+# Copy to ~/.microclaw/microclaw.config.yaml and fill in your API keys
+
+api_key: "YOUR_MANIFEST_API_KEY"
+
+llm:
+  provider: custom
+  custom:
+    base_url: "https://app.manifest.build/v1/responses"
+  model: "auto"
+
+channels:
+  enabled:
+    - telegram
+    - web
+
+telegram:
+  bot_token: "YOUR_TELEGRAM_BOT_TOKEN"
+  download_voice_messages: true
+
+whisper:
+  api_key: "dummy"  # Placeholder to enable voice message downloads
+
+web:
+  enabled: true
+  host: "127.0.0.1"
+  port: 10961
+
+mcp_servers:
+  composio:
+    transport: http
+    url: https://connect.composio.dev/mcp
+    headers:
+      x-consumer-api-key: YOUR_COMPOSIO_API_KEY
+
+data_dir: "/home/YOUR_USERNAME/.microclaw"

@@ -1,0 +1,9 @@
+# MCP Servers Configuration Template
+# Copy to ~/.microclaw/mcp_servers.yaml and fill in your API keys
+
+mcp_servers:
+  composio:
+    transport: http
+    url: https://connect.composio.dev/mcp
+    headers:
+      x-consumer-api-key: YOUR_COMPOSIO_API_KEY
