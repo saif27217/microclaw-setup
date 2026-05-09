@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "created": "2026-05-09T10:36:23Z",
+  "last_updated": "2026-05-09T10:36:23Z",
+  "instinct_count": 0,
+  "domains": [],
+  "metadata": {
+    "description": "Registry for tracking instinct metadata and evolution history",
+    "schema_version": "1.0"
+  }
+}
