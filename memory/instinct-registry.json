@@ -1,11 +1,13 @@
 {
-  "version": "1.0.0",
-  "created": "2026-05-09T10:36:23Z",
-  "last_updated": "2026-05-09T10:36:23Z",
-  "instinct_count": 0,
-  "domains": [],
-  "metadata": {
-    "description": "Registry for tracking instinct metadata and evolution history",
-    "schema_version": "1.0"
-  }
+  "last_updated": "2026-05-09T11:29:09Z",
+  "total_instincts": 1,
+  "average_confidence": 0.5,
+  "instincts_evolved": 0,
+  "skills_created": 0,
+  "user_correction_frequency": 0.0,
+  "heartbeat_runs": 1,
+  "last_consolidation": "2026-05-09T11:29:09Z",
+  "next_consolidation": "2026-05-09T12:00:00Z",
+  "observations_processed": 1,
+  "observations_pending": 0
 }

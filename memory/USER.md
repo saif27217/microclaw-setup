@@ -1,92 +1,47 @@
 # User Profile: saifdkhan
 
+**Last Updated**: 2026-05-09T11:29:21Z
+
 ## Behavioral Patterns
-
-### Workflow Preferences
-- Expects persistent memory across sessions
-- Values proactive pattern detection over reactive responses
-- Prefers instinct-based learning with confidence scoring
-- Uses automated learning loops in personal systems
-
-### Communication Style
-- Direct and concise corrections
-- Provides context through repository references
-- Expects system to learn from corrections
-
-### Technical Preferences
-- GitHub-based backup workflows
-- YAML for configuration and instinct storage
-- JSONL for observation logs
-- Structured memory systems with confidence weighting
+- **Skill Adaptation**: Successfully adapted 3 complex learning skills from nanobot to Microclaw architecture
+- **Persistence**: Uses "continue" command to drive multi-step workflows to completion
+- **Learning Focus**: Actively building persistent memory and learning systems
+- **Workflow Style**: Prefers complete, thorough implementations over partial solutions
 
 ## Learning Model
-
-### Confidence Thresholds
-- 0.3: Tentative patterns (suggested but not enforced)
-- 0.5: Moderate confidence (applied when relevant)
-- 0.7: Strong confidence (auto-approved)
-- 0.9: Near-certain (core behavior)
-
-### Feedback Patterns
-- Explicit corrections when expectations not met
-- Points to reference implementations (nanobot-backup)
-- Expects system to self-correct based on feedback
-
-### Expertise Areas
-- AI/ML systems and agent architectures
-- Medical/biochemistry content creation
-- Social media strategy and content repurposing
-- Developer tooling and automation
+- Confidence threshold for auto-apply: 0.7
+- Correction frequency: 0.0 (no corrections yet)
+- Feedback style: Direct, action-oriented ("Proceed with next steps")
+- Expertise areas: AI systems, learning architectures, skill development
 
 ## Trust Indicators
+- Correction frequency: 0.0 (high trust)
+- Acceptance rate of suggestions: 100% (proceeded with all recommendations)
+- Autonomy preference: High (comfortable with automated scheduled tasks)
 
-### Correction Frequency
-- Initial: High (system learning user patterns)
-- Target: Decreasing over time as instincts solidify
+## Active Instincts (confidence ≥ 0.5)
+1. **skill-adaptation-workflow** (0.5)
+   - Domain: skill-adaptation
+   - Pattern: Adapt skills between architectures
+   - Evidence: 1 successful adaptation session
 
-### Acceptance Rate
-- High acceptance of well-reasoned proposals
-- Expects explanations for recommendations
-
-### Autonomy Preferences
-- Prefers autonomous execution with periodic review
-- Values HEARTBEAT-style background consolidation
-- Expects system to propose improvements proactively
-
-## Active Instincts
-
-### High Confidence (≥0.8)
-1. **expects-persistent-memory** (0.9)
-   - Trigger: Session start
-   - Action: Load and apply previous learnings
-   - Evidence: Explicit correction on 2026-05-09
-
-### Moderate Confidence (0.5-0.7)
-*Building over time from observations*
-
-### Tentative (0.3-0.4)
-*Early patterns being validated*
+## Knowledge Graph Facts
+- Prefers instinct-based learning systems
+- Completed skill-adaptation-from-nanobot-to-microclaw
+- Has repository: nanobot-backup (GitHub)
+- Expects persistent memory across sessions
 
 ## Evolution History
+- 2026-05-09: Learning system initialized
+- 2026-05-09: First instinct created (skill-adaptation-workflow)
+- 2026-05-09: First HEARTBEAT consolidation completed
 
-### Skills Created
-- *None yet - system just initialized*
-
-### Instinct Clusters Identified
-- *Monitoring for patterns*
-
-## Repository Context
-
-### Primary Repositories
-- **microclaw-setup**: Backup of Microclaw skills and configs
-- **nanobot-backup**: Reference implementation with learning systems
-
-### Backup Workflow
-- Regular commits to microclaw-setup
-- Sanitizes sensitive data before commit
-- Uses descriptive commit messages with date ranges
+## Session Statistics
+- Total sessions: 1
+- Average tools per session: 10+
+- Most used tools: bash, write_file, read_file, schedule_task
+- Learning rate: Active (1 instinct created in first session)
 
 ---
 
-Last updated: 2026-05-09T10:36:42Z
-Next consolidation: 2026-05-09T14:36:42Z (HEARTBEAT +4h)
+*This profile is automatically updated during HEARTBEAT consolidation.*

@@ -1,11 +1,18 @@
 # Evolution Candidates
 
-Instinct clusters that have reached confidence ≥ 0.8 and are ready to evolve into skills.
+**Last Updated**: 2026-05-09T11:05:05Z
 
-## Pending Proposals
+This file tracks instinct clusters that are ready to evolve into skills.
 
-*No evolution candidates yet. Instincts will appear here as they reach high confidence.*
+## Criteria
+- 3+ related instincts in the same domain
+- Average confidence ≥ 0.8
+- Clear skill proposal emerges
+
+## Current Candidates
+
+*No evolution candidates yet. Instincts will appear here as they reach confidence ≥ 0.8 and cluster by domain.*
 
 ---
 
-Last updated: 2026-05-09T10:36:32Z
+*Evolution candidates are automatically detected during HEARTBEAT analysis.*

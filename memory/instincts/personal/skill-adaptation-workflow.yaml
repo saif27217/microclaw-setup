@@ -1,0 +1,34 @@
+---
+id: skill-adaptation-workflow
+domain: skill-adaptation
+scope: project
+confidence: 0.5
+created_at: 2026-05-09T11:29:00Z
+updated_at: 2026-05-09T11:29:00Z
+observations_count: 1
+last_triggered: 2026-05-09T11:05:12Z
+
+pattern:
+  name: "Adapt skills from nanobot to Microclaw"
+  trigger: "User requests skill adaptation between architectures"
+  
+behavior:
+  - "Read original skill completely to understand architecture"
+  - "Identify architecture-specific dependencies (hooks, background processes)"
+  - "Replace with Microclaw equivalents (scheduled tasks, manual logging)"
+  - "Preserve core logic and confidence scoring"
+  - "Test with sample data"
+  - "Document changes and differences"
+
+evidence:
+  - type: workflow_preference
+    timestamp: 2026-05-09T11:05:12Z
+    context: "Successfully adapted 3 learning skills (continuous-learning-v2, self-improvement, learning-loop)"
+    outcome: success
+
+user_corrections: []
+
+related_instincts: []
+
+evolution_potential: 0.3
+notes: "Initial instinct from first skill adaptation session. Needs more observations to increase confidence."
