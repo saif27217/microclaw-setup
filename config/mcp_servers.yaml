@@ -1,7 +1,8 @@
 # MCP Servers Configuration
+# Last updated: 2026-05-09
 mcp_servers:
   composio:
     transport: http
     url: https://connect.composio.dev/mcp
     headers:
-      x-consumer-api-key: ck_5aO2GyxJqfeN7q_JQcSc
+      x-consumer-api-key: ck_REDACTED

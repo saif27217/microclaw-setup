@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Engineer"
+  short_description: "Craft reliable prompts and agent instruction architecture."
+  default_prompt: "Engineer a high-quality prompt strategy for this task with testable output format."

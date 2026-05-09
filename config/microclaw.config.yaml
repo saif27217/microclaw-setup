@@ -1,0 +1,37 @@
+# MicroClaw Config
+# Generated 2026-05-01
+# Last updated: 2026-05-09
+
+api_key: "mnfst_REDACTED"
+
+llm:
+  provider: custom
+  custom:
+    base_url: "https://app.manifest.build/v1/responses"
+  model: "auto"
+
+channels:
+  enabled:
+    - telegram
+    - web
+
+telegram:
+  bot_token: "REDACTED"
+  download_voice_messages: true  # Allow voice message downloads for manual transcription
+
+whisper:
+  api_key: "dummy"  # Placeholder to enable voice message downloads
+
+web:
+  enabled: true
+  host: "127.0.0.1"
+  port: 10961
+
+mcp_servers:
+  composio:
+    transport: http
+    url: https://connect.composio.dev/mcp
+    headers:
+      x-consumer-api-key: ck_REDACTED
+
+data_dir: "/home/sak/.microclaw"
